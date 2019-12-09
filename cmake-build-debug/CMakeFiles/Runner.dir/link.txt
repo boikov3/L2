@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libRunnerd.a  CMakeFiles/Runner.dir/sources/Runner.cpp.o
+/usr/bin/ranlib.exe libRunnerd.a

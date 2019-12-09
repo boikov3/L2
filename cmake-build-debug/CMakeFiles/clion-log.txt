@@ -1,0 +1,372 @@
+C:\Users\Ilya\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Ilya/Desktop/2
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++.exe
+-- Check for working CXX compiler: /usr/bin/c++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/Ilya/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 0a1854b | Config-ID: c351cc1 ]
+-- [hunter] GTEST_ROOT: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Install (ver.: 1.8.0-hunter-p11)
+-- [hunter] Building GTest
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/cache.cmake
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/args.cmake
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++.exe
+-- Check for working CXX compiler: /usr/bin/c++.exe -- works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Build
+Scanning dependencies of target GTest-Release
+[  6%] Creating directories for 'GTest-Release'
+[ 12%] Performing download step (download, verify and extract) for 'GTest-Release'
+-- Downloading...
+   dst='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+   timeout='none'
+-- Using src='https://github.com/hunter-packages/googletest/archive/1.8.0-hunter-p11.tar.gz'
+-- [download 0% complete]
+-- [download 1% complete]
+-- [download 2% complete]
+-- [download 3% complete]
+-- [download 4% complete]
+-- [download 5% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 8% complete]
+-- [download 9% complete]
+-- [download 10% complete]
+-- [download 11% complete]
+-- [download 12% complete]
+-- [download 13% complete]
+-- [download 14% complete]
+-- [download 15% complete]
+-- [download 16% complete]
+-- [download 17% complete]
+-- [download 18% complete]
+-- [download 19% complete]
+-- [download 20% complete]
+-- [download 21% complete]
+-- [download 22% complete]
+-- [download 23% complete]
+-- [download 24% complete]
+-- [download 25% complete]
+-- [download 26% complete]
+-- [download 27% complete]
+-- [download 28% complete]
+-- [download 30% complete]
+-- [download 32% complete]
+-- [download 33% complete]
+-- [download 35% complete]
+-- [download 37% complete]
+-- [download 39% complete]
+-- [download 40% complete]
+-- [download 42% complete]
+-- [download 44% complete]
+-- [download 45% complete]
+-- [download 47% complete]
+-- [download 49% complete]
+-- [download 51% complete]
+-- [download 52% complete]
+-- [download 54% complete]
+-- [download 56% complete]
+-- [download 57% complete]
+-- [download 59% complete]
+-- [download 61% complete]
+-- [download 62% complete]
+-- [download 64% complete]
+-- [download 66% complete]
+-- [download 68% complete]
+-- [download 69% complete]
+-- [download 71% complete]
+-- [download 73% complete]
+-- [download 74% complete]
+-- [download 76% complete]
+-- [download 78% complete]
+-- [download 80% complete]
+-- [download 81% complete]
+-- [download 83% complete]
+-- [download 85% complete]
+-- [download 86% complete]
+-- [download 88% complete]
+-- [download 90% complete]
+-- [download 92% complete]
+-- [download 93% complete]
+-- [download 95% complete]
+-- [download 97% complete]
+-- [download 98% complete]
+-- [download 100% complete]
+-- verifying file...
+       file='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+-- Downloading... done
+-- extracting...
+     src='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+     dst='/home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Source'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[ 18%] No patch step for 'GTest-Release'
+[ 25%] No update step for 'GTest-Release'
+[ 31%] Performing configure step for 'GTest-Release'
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/cache.cmake
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/args.cmake
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++.exe
+-- Check for working CXX compiler: /usr/bin/c++.exe -- works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PythonInterp: /usr/bin/python (found version "2.7.16") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Build/GTest-Release-prefix/src/GTest-Release-build
+[ 37%] Performing build step for 'GTest-Release'
+Scanning dependencies of target gmock_main
+[  9%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o
+[ 18%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o
+[ 27%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+[ 36%] Linking CXX static library libgmock_main.a
+[ 36%] Built target gmock_main
+Scanning dependencies of target gmock
+[ 45%] Building CXX object googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o
+[ 54%] Building CXX object googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o
+[ 63%] Linking CXX static library libgmock.a
+[ 63%] Built target gmock
+Scanning dependencies of target gtest
+[ 72%] Building CXX object googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 81%] Linking CXX static library libgtest.a
+[ 81%] Built target gtest
+Scanning dependencies of target gtest_main
+[ 90%] Building CXX object googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[100%] Linking CXX static library libgtest_main.a
+[100%] Built target gtest_main
+[ 43%] Performing install step for 'GTest-Release'
+[ 36%] Built target gmock_main
+[ 63%] Built target gmock
+[ 81%] Built target gtest
+[100%] Built target gtest_main
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgmock.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgmock_main.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-actions.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-cardinalities.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-actions.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-function-mockers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-matchers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-nice-strict.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-matchers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-more-actions.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-more-matchers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-spec-builders.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-generated-actions.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-matchers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-port.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-generated-internal-utils.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-internal-utils.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-port.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockConfig.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockConfigVersion.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockTargets.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockTargets-release.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgtest.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgtest_main.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-death-test.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-message.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-param-test.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-printers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-spi.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-test-part.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-typed-test.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest_pred_impl.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest_prod.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest-port.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest-printers.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-death-test-internal.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-filepath.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-internal.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-linked_ptr.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-param-util-generated.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-param-util.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-port-arch.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-port.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-string.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-tuple.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-type-util.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestConfig.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestConfigVersion.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestTargets.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestTargets-release.cmake
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/args.cmake
+[ 50%] Completed 'GTest-Release'
+[ 50%] Built target GTest-Release
+Scanning dependencies of target GTest-Debug
+[ 56%] Creating directories for 'GTest-Debug'
+[ 62%] Performing download step (download, verify and extract) for 'GTest-Debug'
+-- verifying file...
+       file='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+-- File already exists and hash match (skip download):
+  file='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+  SHA1='76c6aec038f7d7258bf5c4f45c4817b34039d285'
+-- extracting...
+     src='/home/Ilya/.hunter/_Base/Download/GTest/1.8.0-hunter-p11/76c6aec/1.8.0-hunter-p11.tar.gz'
+     dst='/home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Source'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[ 68%] No patch step for 'GTest-Debug'
+[ 75%] No update step for 'GTest-Debug'
+[ 81%] Performing configure step for 'GTest-Debug'
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/cache.cmake
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/args.cmake
+-- The C compiler identification is GNU 7.4.0
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++.exe
+-- Check for working CXX compiler: /usr/bin/c++.exe -- works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PythonInterp: /usr/bin/python (found version "2.7.16") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Build/GTest-Debug-prefix/src/GTest-Debug-build
+[ 87%] Performing build step for 'GTest-Debug'
+Scanning dependencies of target gmock_main
+[  9%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o
+[ 18%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o
+[ 27%] Building CXX object googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+[ 36%] Linking CXX static library libgmock_maind.a
+[ 36%] Built target gmock_main
+Scanning dependencies of target gmock
+[ 45%] Building CXX object googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o
+[ 54%] Building CXX object googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o
+[ 63%] Linking CXX static library libgmockd.a
+[ 63%] Built target gmock
+Scanning dependencies of target gtest
+[ 72%] Building CXX object googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[ 81%] Linking CXX static library libgtestd.a
+[ 81%] Built target gtest
+Scanning dependencies of target gtest_main
+[ 90%] Building CXX object googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[100%] Linking CXX static library libgtest_maind.a
+[100%] Built target gtest_main
+[ 93%] Performing install step for 'GTest-Debug'
+[ 36%] Built target gmock_main
+[ 63%] Built target gmock
+[ 81%] Built target gtest
+[100%] Built target gtest_main
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgmockd.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgmock_maind.a
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-actions.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-cardinalities.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-actions.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-function-mockers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-matchers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-generated-nice-strict.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-matchers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-more-actions.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-more-matchers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock-spec-builders.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/gmock.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-generated-actions.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-matchers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/custom/gmock-port.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-generated-internal-utils.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-internal-utils.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gmock/internal/gmock-port.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockConfig.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockConfigVersion.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockTargets.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GMock/GMockTargets-debug.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgtestd.a
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/libgtest_maind.a
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-death-test.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-message.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-param-test.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-printers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-spi.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-test-part.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest-typed-test.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest_pred_impl.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/gtest_prod.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest-port.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest-printers.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/custom/gtest.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-death-test-internal.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-filepath.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-internal.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-linked_ptr.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-param-util-generated.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-param-util.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-port-arch.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-port.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-string.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-tuple.h
+-- Up-to-date: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/include/gtest/internal/gtest-type-util.h
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestConfig.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestConfigVersion.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestTargets.cmake
+-- Installing: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/Install/lib/cmake/GTest/GTestTargets-debug.cmake
+loading initial cache file /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest/args.cmake
+[100%] Completed 'GTest-Debug'
+[100%] Built target GTest-Debug
+-- [hunter] Build step successful (dir: /home/Ilya/.hunter/_Base/9a3594a/0a1854b/c351cc1/Build/GTest)
+-- [hunter] Cache saved: /home/Ilya/.hunter/_Base/Cache/raw/90a44aa2b6bbf43cd7ee4a09f3f9caf44054a8b8.tar.bz2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Ilya/Desktop/2/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -pedantic -Werror -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -g  -Wl,--enable-auto-import CMakeFiles/main.dir/sources/main.cpp.o  -o main.exe -Wl,--out-implib,libmain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 libRunnerd.a 
